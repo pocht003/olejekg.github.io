@@ -44,4 +44,20 @@ table
 li
 {
     text-align: justify;
+    padding-right: 15px;
 }
+.choiseAmp {
+    display: inline-block;
+    background: #181818; /* Цвет фона */
+    width: 240px; /* Ширина */
+    margin: 0 10px 10px 0; /* Отступы */
+    padding: 10px 0; /* Поля сверху и снизу */
+    text-align: left; /* Выравнивание по центру */
+    display: inline-block; /* Строчно-блочный элемент */
+   }
+   .choiseAmp {
+    border: 5px solid #ff0000; /* Параметры рамки */
+   }
+   
+
+
