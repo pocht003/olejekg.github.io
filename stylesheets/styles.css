@@ -53,10 +53,9 @@ li
     margin: 0 10px 10px 0; /* Отступы */
     padding: 10px 0; /* Поля сверху и снизу */
     text-align: left; /* Выравнивание по центру */
+    border: 5px dotted #ff0000; /* Параметры рамки */
    }
-   .choiseAmp {
-    border: 5px dashed #ff0000; /* Параметры рамки */
-   }
+
    
 
 
