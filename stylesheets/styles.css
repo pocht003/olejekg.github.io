@@ -55,8 +55,7 @@ li
     text-align: left; /* Выравнивание по центру */
    }
    .choiseAmp {
-    border: 5px solid #ff0000; /* Параметры рамки */
-    border-style: dashed;
+    border: 5px dashed #ff0000; /* Параметры рамки */
    }
    
 
