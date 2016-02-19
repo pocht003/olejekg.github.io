@@ -1,8 +1,8 @@
 body
 {
 	background-color: #181818;
-	background-image: url('../images/bg000000.jpg');
-	background-repeat: no-repeat;
+	background-image: url('../img/bg000000.png');
+    	background-attachment: fixed;
 	color: #55c055;
 	font-family: Tahoma;
 	font-size: 20px;
@@ -48,14 +48,11 @@ li
 }
 .choiseAmp {
     display: inline-block; /* Строчно-блочный элемент */
-    background: #181818; /* Цвет фона */
+    background:  transparent; /*#181818; Цвет фона */
     width: 240px; /* Ширина */
     margin: 0 10px 10px 0; /* Отступы */
     padding: 10px 0; /* Поля сверху и снизу */
     text-align: left; /* Выравнивание по центру */
-    border: 5px dotted #ff0000; /* Параметры рамки */
+    border: 5px #ff0000; /* Параметры рамки */
+    border-style: groove double;
    }
-
-   
-
-
