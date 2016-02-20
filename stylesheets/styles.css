@@ -2,11 +2,15 @@ body
 {
 	background-color: #181818;
 	background-image: url('../img/bg000000.png');
-    	background-attachment: fixed;
+    background-attachment: fixed;
 	color: #55c055;
 	font-family: Tahoma;
 	font-size: 20px;
 	margin: 0;
+}
+body.indexbody
+{
+    background-image: url('../img/bg000000.jpg');
 }
 
 h1
