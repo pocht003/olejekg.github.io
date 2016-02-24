@@ -13,6 +13,11 @@ body.indexbody
     background-image: url('../img/bg000000.jpg');
 }
 
+#Shapka
+{
+	text-align: center;
+}
+
 h1
 {
 	color: orange;
@@ -60,7 +65,4 @@ li
     border: 5px #ff0000; /* Параметры рамки */
     border-style: groove double;
    }
-#Shapka
-{
-	text-align: center;
-}
+
