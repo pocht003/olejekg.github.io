@@ -27,7 +27,11 @@ h2
 	font-size: 22px;
     text-align: center;
 }
-
+div
+{
+padding-left: 15px;
+padding-right: 15px;	
+}
 p
 {
 	color: #55c055;
