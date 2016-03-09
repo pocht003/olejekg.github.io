@@ -49,6 +49,10 @@ table
     font-family: Tahoma;
 }
 
+ul
+{
+    list-style-position:inside;
+}
 li
 {
     text-align: justify;
@@ -68,4 +72,11 @@ li
    }
 .choiseAmp:hover {
 	background-color: #181818;
+}
+a.rose {
+    color: #CD5C5C;
+}
+a.rose:hover {
+    background-color:#181818;
+    color: #ff0000;
 }
